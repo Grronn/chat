@@ -1,5 +1,4 @@
 Чат с GigaChat
-
 Техническая документация
 Клиент: React, TypeScript, Ant Design, axios
 Сервер: fastapi, pydantic, requests, uvicorn
